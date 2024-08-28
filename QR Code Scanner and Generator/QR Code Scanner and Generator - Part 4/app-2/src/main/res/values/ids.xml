@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="idTVGenerateQR" type="id" />
+    <item name="idIVQRCode" type="id" />
+    <item name="idTVscanned" type="id" />
+    <item name="camview" type="id" />
+</resources>
